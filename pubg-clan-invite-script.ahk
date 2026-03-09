@@ -106,11 +106,11 @@ Loop Read "nicks.txt"
 
     ; поиск
     Send "{Enter}"
-    Sleep 1500
+    Sleep 400
 
     ; нажать Invite
     Click inviteX, inviteY
-    Sleep 2000
+    Sleep 300
 }
 
 MsgBox "Готово"
