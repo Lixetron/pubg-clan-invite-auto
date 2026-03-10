@@ -11,17 +11,9 @@
 
 ---
 
-## Требования
-
-* **Windows**
-* **AutoHotkey v2**: [https://www.autohotkey.com](https://www.autohotkey.com)
-
----
-
 ## Установка
 
-1. Скачайте репозиторий или файл `pubg-clan-invite-script.ahk`
-2. Установите [AutoHotkey v2](https://www.autohotkey.com)
+1. Скачайте файл `pubg_auto_clan_invite.exe`
 3. Создайте файл `nicks.txt` рядом со скриптом и добавьте туда ники игроков, по одному в строке:
 
 ```
